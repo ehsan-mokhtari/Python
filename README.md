@@ -1,2 +1,2 @@
-# daily_projects
-All of my daily practical projects, are uploaded here.
+# Python
+This repository contains all my Python projects.
